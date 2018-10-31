@@ -12,6 +12,7 @@ class fact
             fact=fact*i;
         }
         System.out.println("Factorial of"n "is" fact);
+		System.out.println("Happie coding enjoy git");
   
   
   
